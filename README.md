@@ -1,5 +1,5 @@
 # docker-bazel-centos
-Provides latest bazel build for CentOS. Current version is 0.5.2
+Provides latest bazel build for CentOS. Current version is 0.5.3
 
 ## Usage
 The usage is similar to other bazel images:
